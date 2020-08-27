@@ -1,4 +1,4 @@
-## April Forever Theme v0.1
+## April Forever Theme v0.1.1
 by https://linuxreviews.org/
 
 ## Requirements
