@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Yooa Boy Voyage Theme. Simple Plymouth Wallpaper
+Description=Oh My Girl Yooa Boy Voyage Theme. Requires Plymouth "script" module.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/yooa-bonvoyage
+ScriptFile=/usr/share/plymouth/themes/yooa-bonvoyage/simple-wallpaper.script

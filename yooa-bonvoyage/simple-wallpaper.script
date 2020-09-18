@@ -1,4 +1,4 @@
-#------------------------------ WJSN Happy Momment 1.0.2 -------------------------
+#------------------------------ Simple Plymouth Wallpaper Script v0.0.1 ---------------------------
 #
 # See https://linuxreviews.org/Plymouth#Themes
 #
@@ -42,7 +42,7 @@ if (Plymouth.GetMode() == "suspend" || Plymouth.GetMode() == "resume") {
   Window.SetBackgroundBottomColor(0, 1, 0);
 }
 else {
-  background.original_image = ImageNew("wjsn-happy-moment.png");
+  background.original_image = ImageNew("plymouth-background.png");
   Window.SetBackgroundTopColor(0.234, 0.43, 0.705);
   Window.SetBackgroundBottomColor(0.16, 0.25, 0.44);
 

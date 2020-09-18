@@ -1,4 +1,4 @@
-## WJSN Happy Plymouth Theme v1.0.1
+## WJSN Happy Plymouth Theme v1.0.2
 by https://linuxreviews.org/
 
 ## Requirements
